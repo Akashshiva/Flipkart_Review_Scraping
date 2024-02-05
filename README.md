@@ -1,4 +1,4 @@
-# Flipkart Review Scraping
+# Flipkart Review Scraping Project
 
 This project is designed to scrape product reviews from Flipkart. It utilizes Flask for the web interface, allowing users to input product URLs from Flipkart and view the scraped reviews. 
 
