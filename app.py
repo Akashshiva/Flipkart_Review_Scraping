@@ -14,6 +14,7 @@ app = Flask(__name__)
 def homepage():
     return render_template("index.html")
 
+
 @app.route("/review" , methods = ['POST' , 'GET'])
 def index():
     if request.method == 'POST':
